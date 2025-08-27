@@ -163,5 +163,4 @@ Defina de acordo com as diretrizes do curso (ex.: MIT) ou mantenha “All Rights
 
 ## Resultado
 
-![alt text](image.png)
 ![alt text](image-1.png)
