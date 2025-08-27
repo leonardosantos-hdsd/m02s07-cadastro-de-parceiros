@@ -1,11 +1,12 @@
----
 # Cadastro de Parceiros
+
+---
 
 # Plataforma Cidadã — Coleta Seletiva (Landing Page)
 
 Landing page do mini-projeto **\[M02S07]** para divulgação das ações de coleta seletiva em Joinville, alinhada aos **ODS 11** (Cidades e Comunidades Sustentáveis) e **ODS 12** (Consumo e Produção Responsáveis).
 
-> Objetivo: apresentar o projeto, explicar impacto, engajar a população e indicar ações práticas de participação.
+> Objetivo é apresentar o projeto, explicar impacto, engajar a população e indicar ações práticas de participação.
 
 ---
 
